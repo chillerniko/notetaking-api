@@ -30,7 +30,7 @@ app.use(
 );
 
 app.listen(PORT, () => {
-    console.log(`Server is listening on PORT ${PORT}`);
+    console.log(`Server is listening on PORT ${PORT} >>>> `);
 });
 
 
